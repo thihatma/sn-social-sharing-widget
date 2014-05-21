@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'social';
+	src:url('eot/icomoon.eot');
+	src:url('eot/icomoon.eot?#iefix') format('embedded-opentype'),
+		url('eot/icomoon.woff') format('woff'),
+		url('eot/icomoon.ttf') format('truetype'),
+		url('eot/icomoon.svg#entypo') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.socialshare{
+	font-family: 'social', Arial !important;
+	color: #000;
+	margin-right: 10px;
+}
+.socialshare:hover{
+	text-decoration: none;
+	opacity: .5;
+};
